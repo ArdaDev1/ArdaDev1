@@ -1,72 +1,43 @@
-# 👋 Hey, I'm ArdaDev  
+[![](https://visitcount.itsvg.in/api?id=iamnullman&icon=0&color=12)](https://visitcount.itsvg.in)
 
-🚀 Passionate Developer | 🧠 AI & Automation Enthusiast | 💻 Full Stack Engineer  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&duration=6000&color=9214F7&random=true&width=435&lines=Developer;Designer;Translator)](https://git.io/typing-svg)
 
-I love building efficient systems, automating everything possible, and crafting clean, scalable code.  
-Always learning. Always improving.  
+I'm Arda (ArdaDev), a young developer who has been working with the web for 9 years. I continue to learn and create projects. I hope you like my GitHub profile ☺️. If you'd like to collaborate or get in touch, feel free to reach out through the social media links below.
 
----
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rawify) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arda1.dev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/iamnullman) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/ardadev1)
 
-## 🧩 About Me  
-- 🔭 Currently working on **AI-integrated applications**  
-- 🌱 Learning **Rust**, **Next.js**, and **LLM fine-tuning**  
-- ⚡ Interested in **System Design**, **Reverse Engineering**, and **Automation Tools**  
-- 🧠 Always focused on **performance, simplicity, and clean architecture**  
+## 💻 Tech Stack:
 
----
+<h3 align="left"> Programming Languages</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,java,javascript,html,css,python,typescript" />
+  </a>
+</p>
 
-## 🛠️ Tech Stack  
+<h3 align="left">Frameworks & Libraries</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,svelte,vue,nextjs,tailwind,express" />
+  </a>
+</p>
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<h3 align="left">Databases</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,mysql,firebase" />
+  </a>
+</p>
 
-**Frameworks & Tools:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron)
+<h3>📊 GitHub Stats:</h3>
 
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=ArdaDev1&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArdaDev1&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaDev1&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+<h3 align="left">💰 You can support me by Donating</h3>
 
----
+<p>  
+  <a href="https://buymeacoffee.com/ardadev" target="_blank"><img src="https://res.cloudinary.com/selimyal/image/upload/v1641238333/bmc-button_ast3kz.png" width="200" /></a>
+</p>
 
-## 📊 GitHub Stats  
-
-![ArdaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdaDev1&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaDev1&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🧠 Currently Exploring  
-- Custom **LLM frameworks** and **AI agents**  
-- High-performance **backend systems**  
-- Low-level **network automation** and **reverse engineering**
-
----
-
-## 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArdaDev1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ArdaDev1)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-
----
-
-⭐️ *"Code is like humor. When you have to explain it, it’s bad."*
