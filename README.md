@@ -11,7 +11,7 @@ I'm Arda (ArdaDev), a young developer who has been working with the web for 9 ye
 <h3 align="left"> Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,javascript,html,css,python,typescript,discordjs,c++,c#,nodejs" />
+    <img src="https://skillicons.dev/icons?i=go,java,javascript,html,css,python,typescript,discordjs,c++,cshard" />
   </a>
 </p>
 
