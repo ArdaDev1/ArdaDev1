@@ -50,8 +50,8 @@ Always learning. Always improving.
 
 ## 📊 GitHub Stats  
 
-![ArdaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdaDev&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaDev&layout=compact&theme=radical&hide_border=true)
+![ArdaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdaDev1&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaDev1&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -63,8 +63,8 @@ Always learning. Always improving.
 ---
 
 ## 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArdaDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ArdaDev)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArdaDev1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ArdaDev1)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 
 ---
